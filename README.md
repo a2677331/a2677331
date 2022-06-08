@@ -1,4 +1,4 @@
-Hi 👋, I'm Jian Zhong
+# Hi There👋, I'm Jian Zhong
 
 A Student of Computer Science
 

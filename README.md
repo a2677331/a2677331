@@ -2,7 +2,9 @@
 
 A Student of Computer Science
 
-🌱 I’m currently working on UB's [Web Applications](https://cse312.com) & MIT's [Missing Semester](https://missing.csail.mit.edu)
+🌱 Planning: Stanford's [CS107](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) & [CS193](https://cs193p.sites.stanford.edu)
+
+🔥 I’m currently working on UB's [Web Applications](https://cse312.com) & MIT's [Missing Semester](https://missing.csail.mit.edu)
 
 ✅ Done [iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a) course on Codecademy
 

@@ -2,7 +2,7 @@
 
 A Student of Computer Science
 
-🌱 Planning: Stanford's [CS107](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) & [CS193](https://cs193p.sites.stanford.edu)
+🌱 Planning: Stanford's [CS107 Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) & [CS193 Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 
 🔥 I’m currently working on UB's [Web Applications](https://cse312.com) & MIT's [Missing Semester](https://missing.csail.mit.edu)
 

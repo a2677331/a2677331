@@ -1,8 +1,8 @@
-# Hi There👋, I'm Jian Zhong
+# Hi There👋, I'm Jian Zhong 🤡
 
 A Student of Computer Science
 
-🌱 I’m currently learning Web Application.
+🌱 I’m currently working on [CSE312](https://cse312.com) Web Application.
 
 ✅ Completed [iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a) courses on Codecademy.
 

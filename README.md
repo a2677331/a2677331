@@ -2,7 +2,7 @@
 
 A Student of Computer Science
 
-🌱 I’m currently working on [CSE312](https://cse312.com) Web Application.
+🌱 I’m currently working on UB's [Web Applications](https://cse312.com) & MIT's [Missing Semester](https://missing.csail.mit.edu)
 
 ✅ Completed [iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a) courses on Codecademy.
 

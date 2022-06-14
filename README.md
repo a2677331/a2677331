@@ -3,7 +3,7 @@ Hi There👋, my name is Jian Zhong
 
 ### A Student of Computer Science
 
-🔥 I’m currently working on [MIT: Missing Semester](https://missing.csail.mit.edu) 🔥
+🔥 I’m currently working on [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu) 🔥
 ---
 
 🌱 Planning...

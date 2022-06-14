@@ -13,7 +13,7 @@ Hi There👋, my name is Jian Zhong
 - [ ] [Stanford CS193 Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 - [x] [Stanford CS 106B: Programming Abstractions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)
 	+ Stanford's Data Structures & ALgorithm course
-- [x] [Codecademy: iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a)
+- [x] [Codecademy: iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a) | [Certificate](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a)
 	+ Write a social iOS App using SwiftUI and Firebase
 - [x] [Codecademy: Git & Github](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13)
 	+ Basics of Git & Github

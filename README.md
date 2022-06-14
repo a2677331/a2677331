@@ -1,15 +1,30 @@
-# Hi There👋, I'm Jian Zhong 🤡
+Hi There👋, my name is Jian Zhong
+===
 
-A Student of Computer Science
+### A Student of Computer Science
 
-🌱 Planning: Stanford's [CS107 Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) and [CS193 Developing Apps for iOS](https://cs193p.sites.stanford.edu)
+🔥 I’m currently working on [MIT: Missing Semester](https://missing.csail.mit.edu) 🔥
+---
 
-🔥 I’m currently working on UB's [Web Applications](https://cse312.com) & MIT's [Missing Semester](https://missing.csail.mit.edu)
+🌱 Planning...
+---
+- [ ] [CSE312: Web Applications](https://cse312.com)
+- [ ] [Stanford CS107: Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) 
+- [ ] [Stanford CS193 Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 
-✅ Done [iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a) course on Codecademy
+✅ Done!
+---
+- [x] [Stanford CS 106B: Programming Abstractions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)
+	+ Stanford's Data Structures course
 
-✅ Done [Git & Github](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13) course on Codecademy
+- [x] [Codecademy: iOS development](https://www.codecademy.com/profiles/jianZ5320566309/certificates/61e87909d59db0001779401a)
+	+ Write a social iOS App using SwiftUI and Firebase
 
-✅ Done [Command-line Environment](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f) course on Codecademy
+- [x] [Codecademy: Git & Github](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13)
+	+ Git & Github intro course
+
+- [x] [Codecademy: Command-line Environment](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+	+ Command-line tool intro course
 
 📫 How to reach me zhongjian089@gmail.com
+---

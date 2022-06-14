@@ -24,7 +24,7 @@ Hi There👋, my name is Jian Zhong
 	+ Basics of Git & Github
 
 - [x] [Codecademy: Command-line Environment](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
-	+ Learn Linux Command-line tool
+	+ Learn Linux Command-line tools
 
 📫 How to reach me zhongjian089@gmail.com
 ---

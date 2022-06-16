@@ -8,7 +8,7 @@
 #### 📌 Checkout My Pull Requests: 
 - [wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/698)
 
-#### 🗺 Planning:
+#### 🗺 I have a "Plan":
 ![](https://progress-bar.dev/0) [CSE312 - Web Applications](https://cse312.com) \
 ![](https://progress-bar.dev/0) [Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) \
 ![](https://progress-bar.dev/0) [Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)

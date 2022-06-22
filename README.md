@@ -3,7 +3,7 @@
 #### 💻 Interested in iOS development, cycbersecurity and learning
 
 #### 📍 I’m currently working on
-![100%](https://progress-bar.dev/70) [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+![100%](https://progress-bar.dev/80) [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 
 #### 📌 Checkout My Pull Requests: 
 - [wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/698)

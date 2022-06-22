@@ -3,13 +3,13 @@
 #### 💻 Interested in iOS development, cycbersecurity and learning
 
 #### 📍 I’m currently working on
-![100%](https://progress-bar.dev/80) [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+![100%](https://progress-bar.dev/80) [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu) \
+![](https://progress-bar.dev/10) [CSE312 - Web Applications](https://cse312.com)
 
 #### 📌 Checkout My Pull Requests: 
 - [wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/698)
 
 #### 🗺 I have a "Plan":
-![](https://progress-bar.dev/10) [CSE312 - Web Applications](https://cse312.com) \
 ![](https://progress-bar.dev/0) [Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) \
 ![](https://progress-bar.dev/0) [Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 

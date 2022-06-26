@@ -19,7 +19,7 @@
 ![100%](https://progress-bar.dev/100) [Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git) [ [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13) ] \
 ![100%](https://progress-bar.dev/100) [Codecademy - Command-line Environment](https://www.codecademy.com/learn/learn-the-command-line) [ [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f) ]
 
-#### 🎓 Courses Completed at Shcool:
+#### 🎓 College Courses:
 ![100%](https://progress-bar.dev/100) [CS232 - Advanced Data Structures](https://github.com/a2677331/My-Solutions-CS232-HW) \
 ![100%](https://progress-bar.dev/100) [CS221 - Asembly Language](https://github.com/a2677331/My-Solutions-CS221-HW) \
 ![100%](https://progress-bar.dev/100) [CS132 - Computer Science II](https://github.com/a2677331/My-Solutions-CS132-HW) \

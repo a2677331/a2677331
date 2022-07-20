@@ -13,6 +13,7 @@
 ![](https://progress-bar.dev/0) [Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 
 #### 🏴‍☠️ Courses Completed Myself:
+![100%](https://progress-bar.dev/100) [Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) | [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/de0bd5c89521d004ce449a86b0ad3319) \
 ![100%](https://progress-bar.dev/100) [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu) | [My HWs](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git) \
 ![100%](https://progress-bar.dev/100) [Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/) | [My Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW) \
 ![100%](https://progress-bar.dev/100) [Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui) | [App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s) \

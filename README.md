@@ -3,7 +3,7 @@
 #### 💻 Interested in iOS development, cycbersecurity and learning
 
 #### 📍 I’m currently working on
-![](https://progress-bar.dev/10) [CSE312 - Web Applications](https://cse312.com)
+![](https://progress-bar.dev/15) [CSE312 - Web Applications](https://cse312.com)
 
 #### 📌 Checkout My Pull Requests: 
 - [wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/698)

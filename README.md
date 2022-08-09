@@ -1,6 +1,6 @@
 #### 👨🏻‍🎓 Student of Computer Science
 
-#### 💻 Interested in iOS development, cycbersecurity and learning
+#### 💻 Interested in iOS development, Cycbersecurity
 
 #### 📍 I’m currently working on
 ![](https://progress-bar.dev/20) [UB CSE312 - Web Applications](https://cse312.com) - [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)

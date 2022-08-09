@@ -5,7 +5,7 @@
 #### 📍 I’m currently working on
 ![](https://progress-bar.dev/20) [UB CSE312 - Web Applications](https://cse312.com) - [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)
 
-#### 📌 Checkout My Pull Requests: 
+#### 📌 Checkout My Personal Projects: 
 - [wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/698)
 
 #### 🗺 I have a "Plan":

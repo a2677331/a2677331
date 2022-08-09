@@ -6,7 +6,7 @@
 ![](https://progress-bar.dev/20)&nbsp;&nbsp;[UB CSE312 - Web Applications](https://cse312.com) - [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)
 
 #### 📌 My Toy Projects: 
-- [wedding-rsvp-off-platform-project](https://www.youtube.com/playlist?list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr)
+- [Demo](https://www.youtube.com/playlist?list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr)
 
 #### 🗺 I have a "Plan":
 ![](https://progress-bar.dev/0)&nbsp;&nbsp;[Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) \

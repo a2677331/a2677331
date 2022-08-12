@@ -3,7 +3,7 @@
 #### 💻 Interested in iOS development, Cycbersecurity
 
 #### 📍 I’m currently working on
-![](https://progress-bar.dev/20)&nbsp;&nbsp;[UB CSE312 - Web Applications](https://cse312.com) - [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)
+![](https://progress-bar.dev/50)&nbsp;&nbsp;[UB CSE312 - Web Applications](https://cse312.com) - [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)
 
 #### 📌 My Toy Projects: 
 - [Demo](https://www.youtube.com/playlist?list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr)

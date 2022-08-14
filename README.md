@@ -8,7 +8,7 @@
 
 | Courses | Solutions |
 | ------- | --------- |
-| ![](https://progress-bar.dev/51)&nbsp;&nbsp;[UB CSE312 - Web Applications](https://cse312.com) | [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications) |
+| ![](https://progress-bar.dev/55)&nbsp;&nbsp;[UB CSE312 - Web Applications](https://cse312.com) | [My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications) |
 
 ##
 

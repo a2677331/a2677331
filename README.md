@@ -12,7 +12,7 @@
 
 ##
 
-#### 📌&nbsp;&nbsp;My Toy Projects
+#### 📌&nbsp;&nbsp;Just Toy Projects
 
 - [Demo](https://www.youtube.com/playlist?list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr)
 

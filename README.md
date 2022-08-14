@@ -13,10 +13,10 @@
 ![](https://progress-bar.dev/0)&nbsp;&nbsp;[Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 
 #### 🏴‍☠️ Self-studied Courese:
-![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) - [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/de0bd5c89521d004ce449a86b0ad3319) \
-![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu) - [My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git) \
 ![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/) - [My HW Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW) \
+![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu) - [My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git) \
 ![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui) - [My App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s) \
+![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) - [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/de0bd5c89521d004ce449a86b0ad3319) \
 ![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git) - [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13) \
 ![100%](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Command-line Environment](https://www.codecademy.com/learn/learn-the-command-line) - [CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
 

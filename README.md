@@ -36,7 +36,7 @@
 
 #### 🎓&nbsp;&nbsp;College Courses
 
-[CS232 - Advanced Data Structures](https://github.com/a2677331/My-Solutions-CS232-HW)
-[CS221 - Asembly Language](https://github.com/a2677331/My-Solutions-CS221-HW)
-[CS132 - Computer Science II](https://github.com/a2677331/My-Solutions-CS132-HW)
-[CS121 - Computer Science I](https://github.com/a2677331/My-Solutions-CS121-HW)
+[CS232 - Advanced Data Structures](https://github.com/a2677331/My-Solutions-CS232-HW) \
+[CS221 - Asembly Language](https://github.com/a2677331/My-Solutions-CS221-HW) \
+[CS132 - Computer Science II](https://github.com/a2677331/My-Solutions-CS132-HW) \
+[CS121 - Computer Science I](https://github.com/a2677331/My-Solutions-CS121-HW) \

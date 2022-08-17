@@ -18,7 +18,7 @@
 
 #### 🗺&nbsp;&nbsp;I have a "Plan"
 
-- [Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) \
+- [Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml)
 - [Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 
 ##

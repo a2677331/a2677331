@@ -6,7 +6,7 @@
 
 #### 📍&nbsp;&nbsp;I’m currently working on
 
-![](https://progress-bar.dev/60)&nbsp;&nbsp;[UB - CSE312 Web Applications](https://cse312.com)&nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)*
+![](https://progress-bar.dev/70)&nbsp;&nbsp;[UB - CSE312 Web Applications](https://cse312.com)&nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)*
 
 ##
 

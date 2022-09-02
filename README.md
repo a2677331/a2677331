@@ -25,12 +25,12 @@
 
 #### 🏴‍☠️&nbsp;&nbsp;Self-studied Courese
 
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)* \
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)* \
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui) &nbsp;&nbsp;&nbsp;&nbsp; *[My App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s)* \
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/de0bd5c89521d004ce449a86b0ad3319)* \
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13)* \
-![](https://progress-bar.dev/100)&nbsp;&nbsp;[Codecademy - Command-line Environment](https://www.codecademy.com/learn/learn-the-command-line) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f)*
+[Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)* \
+[MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)* \
+[Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui) &nbsp;&nbsp;&nbsp;&nbsp; *[My App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s)* \
+[Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/de0bd5c89521d004ce449a86b0ad3319)* \
+[Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/a8ab218d5950c29861635cc0bf12fd13)* \
+[Codecademy - Command-line Environment](https://www.codecademy.com/learn/learn-the-command-line) &nbsp;&nbsp;&nbsp;&nbsp; *[CERTIFICATE](https://www.codecademy.com/profiles/jianZ5320566309/certificates/c87ba0541f8be78bc2f4ba1128233f6f)*
 
 ##
 

@@ -24,7 +24,7 @@
 
 ##
 
-#### 🏴‍☠️&nbsp;&nbsp;Self-studied Courese
+#### 🏴‍☠️&nbsp;&nbsp;Self-taught Courses
 
 [Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)* \
 [MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)* \

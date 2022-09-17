@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jian Zhong
+### Hi 👋, I'm Jian Zhong
 ### 👨🏻‍🎓&nbsp;&nbsp;Student of Informatics, interested in iOS development, Cycbersecurity
 
 ### 📫&nbsp;&nbsp;Email: [zhongjian089@gmail.com](mailto:zhongjian089@gmail.com) 

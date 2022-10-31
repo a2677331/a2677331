@@ -1,16 +1,16 @@
 # 🙋🏻‍♂️Jian Zhong
 - &nbsp;&nbsp;Interested in App Development, Cycbersecurity
 - &nbsp;&nbsp;Email: [zhongjian089@gmail.com](mailto:zhongjian089@gmail.com)
-<br>
+<br><br><br>
 
 # 📍&nbsp;&nbsp;Working on
 - ![](https://progress-bar.dev/70)&nbsp;&nbsp;[UB - CSE312 Web Applications](https://cse312.com)&nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/CSE312-Web-Applications)*
-<br><br>
+<br><br><br>
 
 
 # 📌&nbsp;&nbsp;Side Projects
 - [iOS App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr&index=10)
-<br><br>
+<br><br><br>
 
 
 # 🗺&nbsp;&nbsp;"Plan"

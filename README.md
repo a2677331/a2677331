@@ -8,7 +8,7 @@
 <br><br>
 
 
-# 📌&nbsp;&nbsp;Side Projects
+# 📌&nbsp;&nbsp;Projects
 - [iOS Social App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr&index=10)
 - [Your Body Builder - a Workout Website](https://a2677331.github.io/gym/index.html)
 <br><br>
@@ -20,7 +20,7 @@
 <br><br>
 
 
-# 🏴‍☠️&nbsp;&nbsp;Self-taught Courses
+# 🏴‍☠️&nbsp;&nbsp;Self-taught
 - [Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)* 
 - [MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)  &nbsp;&nbsp;&nbsp;&nbsp; *[My HW Solutions](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)* 
 - [Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui) &nbsp;&nbsp;&nbsp;&nbsp; *[My App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s)* 
@@ -30,7 +30,7 @@
 <br><br>
 
 
-# 🎓&nbsp;&nbsp;College Courses
+# 🎓&nbsp;&nbsp;In College
 - [CS232 - Advanced Data Structures](https://github.com/a2677331/My-Solutions-CS232-HW)
 - [CS221 - Asembly Language](https://github.com/a2677331/My-Solutions-CS221-HW)
 - [CS132 - Computer Science II](https://github.com/a2677331/My-Solutions-CS132-HW)

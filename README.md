@@ -25,9 +25,9 @@
 
 
 # 🏴‍☠️&nbsp;&nbsp;Self-taught
-- [Stanford CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1192/)
+- [Stanford CS106B - Programming Abstractions](https://github.com/a2677331/CS106B-HW-Solutions)
   - [Done All Assignments](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)
-- [MIT CS198 - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+- [MIT CS198 - The Missing Semester of Your CS Education](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)
   - [Done All Assignments](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)
 - [Codecademy - Build a Social Media iOS App with Firebase and SwiftUI](https://www.codecademy.com/learn/paths/build-a-social-media-ios-app-with-firebase-and-swiftui)
   - [App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&t=25s)

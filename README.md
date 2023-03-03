@@ -4,10 +4,10 @@
 <br><br>
 
 # 📍&nbsp;&nbsp;Working on
-- ![](https://progress-bar.dev/70)&nbsp;&nbsp;[University at Buffalo CSE312 - Web Applications]([https://cse312.com](https://github.com/a2677331/CSE312-Web-Applications))
+- ![](https://progress-bar.dev/70)&nbsp;&nbsp;[University at Buffalo CSE312 - Web Applications](https://github.com/a2677331/CSE312-Web-Applications)
   - [Assignments](https://github.com/a2677331/CSE312-Web-Applications)
 
-- ![](https://progress-bar.dev/90)&nbsp;&nbsp;[Stanford CS142 - Web Applications]([https://web.stanford.edu/class/cs142/index.html](https://github.com/a2677331/Stanford-CS142))
+- ![](https://progress-bar.dev/90)&nbsp;&nbsp;[Stanford CS142 - Web Applications](https://github.com/a2677331/Stanford-CS142)
   - [Assignments](https://github.com/a2677331/Stanford-CS142)
 <br><br>
 

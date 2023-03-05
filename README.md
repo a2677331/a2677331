@@ -6,9 +6,9 @@
 
 # 📍&nbsp;&nbsp;Working on
 - [University at Buffalo CSE312 - Web Applications](https://github.com/a2677331/CSE312-Web-Applications)
-  - [Assignments](https://github.com/a2677331/CSE312-Web-Applications) ![](https://progress-bar.dev/70)&nbsp;&nbsp;
+  - ![](https://progress-bar.dev/70) [Assignments](https://github.com/a2677331/CSE312-Web-Applications) 
 - [Stanford CS142 - Web Applications](https://github.com/a2677331/Stanford-CS142)
-  - [Assignments](https://github.com/a2677331/Stanford-CS142) ![](https://progress-bar.dev/90)&nbsp;&nbsp;
+  - ![](https://progress-bar.dev/90) [Assignments](https://github.com/a2677331/Stanford-CS142) 
 <br><br>
 
 

@@ -25,7 +25,7 @@
 
 
 # 🏴‍☠️&nbsp;&nbsp;Self-taught
-- [Stanford CS106B - Programming Abstractions](https://github.com/a2677331/CS106B-HW-Solutions)
+- [Stanford CS106B - Stanford's Data Structure Course](https://github.com/a2677331/CS106B-HW-Solutions)
   - [Done All Assignments](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)
 - [MIT CS198 - The Missing Semester of Your CS Education](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)
   - [Done All Assignments](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)

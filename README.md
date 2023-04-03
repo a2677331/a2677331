@@ -15,7 +15,7 @@
 # 📌&nbsp;&nbsp;My Projects
 - [iOS Social App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr&index=10)
 - [Your Body Builder - a Workout Website](https://a2677331.github.io/gym/index.html)
-- [Photo Sharing App](https://github.com/a2677331/Stanford-CS142)
+- [Photos Sharing App](https://github.com/a2677331/Stanford-CS142)
 <br><br>
 
 

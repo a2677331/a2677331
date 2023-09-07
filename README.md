@@ -21,7 +21,7 @@
 <br><br>
 
 
-# 🗺&nbsp;&nbsp;"Plan"
+# 🗺&nbsp;&nbsp;"I have a Plan"
 - ![](https://progress-bar.dev/0)&nbsp;&nbsp;[Stanford CS107 - Computer Organization & Systems](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml) 
 - ![](https://progress-bar.dev/0)&nbsp;&nbsp;[Stanford CS193 - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
 <br><br>

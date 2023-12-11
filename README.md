@@ -14,9 +14,11 @@
 
 
 # 📌&nbsp;&nbsp;My Projects
-- [Investment Valley](https://youtu.be/PHgWrI64iAw)
-  - A game lets you explore various kinds of investment tools and teaches you how to invest, a Pygame-based game. 
-- [Camera-based Smart Traffic System (implemented on TensorFlow's Object Detection Model)](https://www.youtube.com/watch?v=gqcQHryG6ZA)
+- [Investment Valley](https://github.com/a2677331/investment_valley)
+  - A game lets you explore various kinds of investment tools and teaches you how to invest, a Pygame-based game.
+  - [Project Presentation](https://youtu.be/PHgWrI64iAw)
+- [Camera-based Smart Traffic System](https://www.youtube.com/watch?v=gqcQHryG6ZA)
+   - Implemented on TensorFlow's Object Detection Model
    - [Demo 1](https://www.youtube.com/watch?v=D-YvhMxkzEY)
    - [Demo 2](https://www.youtube.com/watch?v=qtIy90SQYfk)
    - [Demo 3](https://www.youtube.com/watch?v=vBKUmP5tZu8)

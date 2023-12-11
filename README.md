@@ -14,7 +14,7 @@
 
 
 # 📌&nbsp;&nbsp;My Projects
-- [Camera-based Smart Traffic System (based on TensorFlow lite's Object Detection Algorithm)]
+- [Camera-based Smart Traffic System (based on TensorFlow lite's Object Detection Algorithm)](https://www.youtube.com/watch?v=gqcQHryG6ZA)
    - [Demo 1](https://www.youtube.com/watch?v=vBKUmP5tZu8)
    - [Demo 2](https://www.youtube.com/watch?v=D-YvhMxkzEY)
    - [Demo 3](https://www.youtube.com/watch?v=qtIy90SQYfk)

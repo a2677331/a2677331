@@ -14,6 +14,11 @@
 
 
 # 📌&nbsp;&nbsp;My Projects
+- [Camera-based Smart Traffic System (based on TensorFlow lite's Object Detection Algorithm)]
+   - [Demo 1](https://www.youtube.com/watch?v=vBKUmP5tZu8)
+   - [Demo 2](https://www.youtube.com/watch?v=D-YvhMxkzEY)
+   - [Demo 3](https://www.youtube.com/watch?v=qtIy90SQYfk)
+   - [Project Presentation](https://www.youtube.com/watch?v=gqcQHryG6ZA)
 - [Photos Sharing App](https://github.com/a2677331/Stanford-CS142)
 - [Your Body Builder - a Workout Website](https://a2677331.github.io/gym/index.html)
 - [iOS Social App Demo](https://www.youtube.com/watch?v=Hj154rLK7hw&list=PLE-isvGZOtw-1nRsCVy_yjKNnOzew7zLr&index=10)

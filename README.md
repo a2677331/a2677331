@@ -37,7 +37,7 @@
 
 # 🏴‍☠️&nbsp;&nbsp;Self-taught
 - [Stanford CS142 - Web Applications](https://github.com/a2677331/Stanford-CS142)  
-  - [Assignments Solutions](https://github.com/a2677331/Stanford-CS142)
+  - [Done All Assignments](https://github.com/a2677331/Stanford-CS142)
 - [Stanford CS106B - Stanford's Data Structure Course](https://github.com/a2677331/CS106B-HW-Solutions)
   - [Done All Assignments](https://github.com/a2677331/My-Solutions-Stanford-CS106B-HW)
 - [MIT CS198 - The Missing Semester of Your CS Education](https://github.com/a2677331/MIT-Missing-Semester-My-Solutions.git)

@@ -1,15 +1,14 @@
-# 🙋🏻‍♂️&nbsp;&nbsp; My Name is Jian Zhong
-- &nbsp;&nbsp;Interested in App Development
+# Jian Zhong
 - &nbsp;&nbsp;Email: [zhongjian089@gmail.com](mailto:zhongjian089@gmail.com)
 <br><br>
 
-# 📍&nbsp;&nbsp;Working on
+# 📍&nbsp;&nbsp;Working
 - [University at Buffalo CSE312 - Web Applications](https://github.com/a2677331/CSE312-Web-Applications)  
    - [Assignments Solutions](https://github.com/a2677331/CSE312-Web-Applications) ![](https://progress-bar.dev/70) 
 <br><br>
 
 
-# 📌&nbsp;&nbsp;My Projects
+# 📌&nbsp;&nbsp;My Poorly Constructed Projects
 - [Investment Valley](https://github.com/a2677331/investment_valley)
   - A game lets you explore various kinds of investment tools and teaches you how to invest
   - A Pygame-based game
